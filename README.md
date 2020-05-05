@@ -1,2 +1,2 @@
 # Market_Camp
-For any newly acquired customers, we can set a minimum amount of purchases before their collected data is utilized in determining any marketing strategies. Successfully marketing to these customers, based on their collected features, could prove useful in their retention. 
+Customer segmentation / predicting customer response to marketing offer for anonymous company selling wine, meat, fish, fruit, sweets, and gold products.
