@@ -1,2 +1,2 @@
 # Market_Camp
-Analyzing marketing campaigns of one offer from anonymous company
+For any newly acquired customers, we can set a minimum amount of purchases before their collected data is utilized in determining any marketing strategies. Successfully marketing to these customers, based on their collected features, could prove useful in their retention. 
